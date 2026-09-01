@@ -67,7 +67,7 @@ public class BankSystem {
         Scanner sc = new Scanner(System.in);
 
         Bank account1 = new Bank(101, "Manu", 5000);
-        Bank account2 = new Bank(102, "Rahul", 10000);
+        Bank account2 = new Bank(792, "Sutej", 15200);
 
         account1.Display();
         account2.Display();
